@@ -37,9 +37,11 @@ public class TelaJogo {
 	private JogoDaForca game;
 
 
-	public void main(String[] args) {
-		createWindow();
-		activate();
+	public static void main(String[] args) {
+		TelaJogo GUI = new TelaJogo();
+		
+		GUI.createWindow();
+		GUI.activate();
 	}
 	
 	
