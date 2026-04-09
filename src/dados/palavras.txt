@@ -1,4 +1,104 @@
-OBJETO;� uma inst�ncia da classe
+OBJETO;é uma instância da classe
 BOLSA;guarda objetos pessoais
 COLA;gruda as coisas
 SALA;local para ver TV
+TECLADO;dispositivo periférico para digitação
+MONITOR;tela que exibe a interface do sistema
+MOUSE;periférico utilizado para mover o cursor
+EXTENSOR;usado para aumentar o alcance de cabos
+CELULAR;dispositivo móvel de comunicação
+CANETA;instrumento usado para escrever com tinta
+LIVRO;conjunto de folhas com textos ou imagens
+CARTEIRA;local para guardar dinheiro e documentos
+CHAVE;objeto usado para abrir fechaduras
+RELOGIO;dispositivo que marca o tempo
+OCULOS;acessório usado para corrigir a visão
+MOCHILA;bolsa usada nas costas para carregar itens
+GARRAFA;recipiente para armazenar líquidos
+CADEIRA;móvel feito para sentar
+MESA;móvel com tampo horizontal para apoio
+CADERNO;usado para fazer anotações manuais
+ESPELHO;superfície que reflete a imagem
+LAMPADA;dispositivo que transforma energia em luz
+QUADRO;item decorativo pendurado na parede
+PORTA;abertura que permite entrada e saída
+JANELA;abertura na parede para ventilação e luz
+TAPETE;peça de tecido que cobre o chão
+ALMOFADA;travesseiro pequeno usado no sofá
+TELEVISAO;aparelho eletrônico para ver programas
+CONTROLE;dispositivo para operar aparelhos à distância
+VENTILADOR;aparelho que cria fluxo de ar
+GELADEIRA;eletrodoméstico que conserva alimentos
+FOGAO;usado para cozinhar e aquecer comida
+PRATO;recipiente onde se coloca a refeição
+GARFO;utensílio com dentes para comer
+FACÃO;ferramenta de corte grande
+COLHER;utensílio côncavo para líquidos
+COPO;recipiente para beber água ou suco
+XICARA;usada para tomar café ou chá
+PANELA;recipiente metálico usado no fogo
+BALDE;recipiente cilíndrico com alça
+VASSOURA;instrumento para varrer o chão
+RODO;usado para puxar água do piso
+MARTELO;ferramenta para pregar pregos
+ALICATE;ferramenta para apertar ou cortar fios
+PARAFUSO;peça metálica para fixação
+ESTANTE;móvel com prateleiras para livros
+CAMA;móvel usado para dormir
+TRAVESSEIRO;apoio macio para a cabeça ao dormir
+LENÇOL;tecido usado para cobrir a cama
+TOALHA;tecido usado para enxugar o corpo
+SABONETE;produto usado para higiene corporal
+ESCOVA;usada para limpar dentes ou cabelos
+PENTE;objeto com dentes para alinhar os fios
+MOEDA;peça metálica que representa valor monetário
+CARTAO;objeto plástico para pagamentos
+PAPEL;material usado para escrever ou imprimir
+TESOURA;instrumento com duas lâminas para corte
+GRAMPEADOR;usado para unir folhas de papel
+BORRACHA;usada para apagar escrita a lápis
+LAPIS;instrumento de grafite para escrever
+PINCEL;usado para aplicar tinta em superfícies
+TINTA;substância colorida para pintura
+MASCARA;acessório para cobrir o rosto
+REDE;usada para descanso ou pesca
+BATERIA;armazenador de energia elétrica
+CABO;condutor de eletricidade ou sinal
+FONTE;fornece energia para dispositivos
+ALTO-FALANTE;dispositivo que reproduz som
+FONE;acessório para ouvir música privadamente
+MICROFONE;dispositivo que capta o som
+CAMERA;aparelho para capturar fotos ou vídeos
+DRONE;veículo aéreo não tripulado
+ROTEADOR;dispositivo que distribui sinal de internet
+MODEM;conecta a rede local à internet
+SERVIDOR;computador que fornece serviços a outros
+SOFTWARE;conjunto de instruções lógicas do sistema
+HARDWARE;parte física do computador
+ALGORITMO;sequência de passos para resolver um problema
+VARIAVEL;espaço na memória para guardar dados
+METODO;bloco de código que executa uma ação
+CLASSE;molde para a criação de objetos
+INTERNACIONAIS;referente a diversos países
+FUTEBOL;esporte jogado com os pés e uma bola
+BASQUETE;esporte cujo objetivo é acertar a cesta
+VIOLAO;instrumento musical de cordas
+PIANO;instrumento musical com teclas
+BATERIA;instrumento de percussão
+GITARRA;instrumento elétrico de cordas
+ESTRADA;via para circulação de veículos
+AVIAO;meio de transporte aéreo
+NAVIO;meio de transporte marítimo grande
+CARRO;veículo automotor de quatro rodas
+BICICLETA;veículo de duas rodas movido a pedal
+TREM;veículo que circula sobre trilhos
+ONIBUS;veículo de transporte coletivo urbano
+PLANETA;corpo celeste que orbita uma estrela
+ESTRELA;corpo celeste que brilha com luz própria
+COMETA;corpo celeste com cauda luminosa
+GALAXIA;grande sistema de estrelas e matéria
+FLORESTA;grande área coberta por árvores
+OCEANO;vasta extensão de água salgada
+DESERTO;região com pouca chuva e vegetação
+MONTANHA;grande elevação natural do terreno
+VULCAO;abertura na crosta terrestre que expele lava
