@@ -32,7 +32,7 @@ GELADEIRA;eletrodoméstico que conserva alimentos
 FOGAO;usado para cozinhar e aquecer comida
 PRATO;recipiente onde se coloca a refeição
 GARFO;utensílio com dentes para comer
-FACÃO;ferramenta de corte grande
+FACAO;ferramenta de corte grande
 COLHER;utensílio côncavo para líquidos
 COPO;recipiente para beber água ou suco
 XICARA;usada para tomar café ou chá
