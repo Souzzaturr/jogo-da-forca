@@ -240,6 +240,7 @@ public class TelaJogo {
 		updateImage();
 
 		this.letraInput.setText("");
+		setFocusOnInputLetra();
 
 		endingGame();
 	}
@@ -300,6 +301,7 @@ public class TelaJogo {
 	public void startedBody() {
 		showDica();
 		enableInputLetra();
+		setFocusOnInputLetra();
 		enableAdivinharButton();
 		showPalavraLabel();
 		showSystemMessageLabel();
@@ -325,6 +327,10 @@ public class TelaJogo {
 
 	public void enableInputLetra() {
 		this.letraInput.setEnabled(true);
+	}
+
+	public void setFocusOnInputLetra() {
+		this.letraInput.requestFocusInWindow();
 	}
 
 	public void disableInputLetra() {
