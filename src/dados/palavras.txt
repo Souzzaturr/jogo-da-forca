@@ -65,7 +65,7 @@ REDE;usada para descanso ou pesca
 BATERIA;armazenador de energia elétrica
 CABO;condutor de eletricidade ou sinal
 FONTE;fornece energia para dispositivos
-ALTO-FALANTE;dispositivo que reproduz som
+ALTOFALANTE;dispositivo que reproduz som
 FONE;acessório para ouvir música privadamente
 MICROFONE;dispositivo que capta o som
 CAMERA;aparelho para capturar fotos ou vídeos
