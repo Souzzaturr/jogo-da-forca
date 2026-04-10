@@ -227,7 +227,7 @@ public class TelaJogo {
 	public void guess() {
 		try {
 			game.getOcorrencias(this.letraInput.getText());
-			showSystemMessageLabel();
+			updateSystemMessageLabel();
 
 		} catch (Exception e) {
 			this.systemMessageLabel.setText(e.getMessage());
@@ -367,6 +367,11 @@ public class TelaJogo {
 		this.systemMessageLabel.setText(game.getResultados().getLast());
 	}
 
+	public void loadEndingSystemMessageLabel() {
+		game.getResultado(); // Para a classe JogoDaForca adicionar ao histório: "palavra" - venceu/perdeu
+		updateSystemMessageLabel();
+	}
+
 
 	public void updateImage() {
 		this.imageGame.setIcon(new ImageIcon("./imagens/" + this.game.getCodigoPenalidade() + ".png"));
@@ -377,7 +382,7 @@ public class TelaJogo {
 	public void endingGame() {
 		if (!game.terminou()) return;
 
-		updateSystemMessageLabel();
+		loadEndingSystemMessageLabel();
 		disableInputLetra();
 		disableAdivinharButton();
 		enableIniciarButton();
