@@ -79,7 +79,7 @@ public class JogoDaForca {
 		}
 
 		if (letrasTentadas.contains(letra)) {
-			return new ArrayList<>();
+			throw new Exception("Letra " + letra.toUpperCase() + " já foi tentada");
 		}
 
 		ArrayList<Integer> ocorrencias = new ArrayList<>();
@@ -97,7 +97,14 @@ public class JogoDaForca {
 
 		this.letrasTentadas.add(letra);
 		Collections.sort(this.listaDeOcorrencias);
-		if (errou) this.penalidade++;
+		
+		if (errou) {
+			this.penalidade++;
+			this.historico.add(letra + " - Errou");
+
+		} else {
+			this.historico.add(letra + " - Acertou");
+		}
 		
 		return ocorrencias;
 	}
